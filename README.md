@@ -1,32 +1,31 @@
+# Music-Player
+
+Music-Player is a website for listening to music online. The website has a modern and minimalist design inspired by neumorphism, providing a sleek and sophisticated user interface.
 
 
-# Weather-Now
+## Features
 
-Weather-Now is a web application that allows users to retrieve real-time weather information for any city by entering its name in a search bar. The app makes use of the OpenWeatherMap API to gather and display up-to-date weather data for the user's desired location.
-
-![Weather-Now Screenshot](https://i.imgur.com/YJtzyrE.png)
+- Play songs from a pre-existing list of tracks.
+- Pause, play, and skip tracks with the click of a button.
+- Adjust volume and seek forward and backward through a song.
+- Playlist functionality to queue up multiple tracks.
 
 ## Installation
 
-Weather-Now is a web application and doesn't require any installation. Simply visit the [website](https://weather-now-app.herokuapp.com/) to use the app.
+Music-Player is a web application and doesn't require any installation. Simply visit the [website](https://music-player-neumorphism.netlify.app/) to use the app.
 
 ## Usage
 
-To use Weather-Now, simply enter the name of the city you want to check the weather for in the search bar and hit the "Get Weather" button. Weather-Now will then display the current temperature, humidity, wind speed, and weather conditions for that location.
+To use Music-Player, simply click on the play button to start playing the first track in the list. You can pause, play, and skip tracks using the buttons at the bottom of the player. Use the volume slider to adjust the volume, and use the seek bar to move forward or backward in a track. The playlist functionality allows you to queue up multiple tracks to play in succession.
 
 ## Development
 
-If you want to contribute to the development of Weather-Now, you can follow the steps below to set up a local development environment:
+If you want to contribute to the development of Music-Player, you can follow the steps below to set up a local development environment:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `npm install`.
-3. Create a `.env` file in the root directory and add your OpenWeatherMap API key as `API_KEY=your-api-key`.
-4. Start the development server by running `npm start`.
-
-## License
-
-Weather-Now is licensed under the MIT License. See the [LICENSE](https://github.com/yourname/yourproject/blob/main/LICENSE) file for more information.
+3. Start the development server by running `npm start`.
 
 ## Credits
 
-Weather-Now was created by [Your Name](https://github.com/yourname). It makes use of the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve weather data. The web app was built using React and Node.js, and is hosted on Heroku.
+Music-Player was created by [Your Name](https://github.com/yourname). The web app was built using React, and the neumorphic design was inspired by [neumorphism.io](https://neumorphism.io/).
