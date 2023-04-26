@@ -12,7 +12,7 @@ Music-Player is a website for listening to music online. The website has a moder
 
 ## Installation
 
-Music-Player is a web application and doesn't require any installation. Simply visit the [website](https://skitarii11.github.io/Music-Player/) to use the app.
+Music-Player is a website and doesn't require any installation. Simply visit the [website](https://skitarii11.github.io/Music-Player/) to use the app.
 
 ## Usage
 
